@@ -1,0 +1,5 @@
+Số được coi là đặc biệt nếu như số đó có thể phân tích thành tổng các lũy thừa cơ số k riêng biệt,
+
+Yêu cầu: Tìm số đặc biệt nhỏ nhất lớn hơn hoặc bằng n
+Input: 8 3
+Output:9
